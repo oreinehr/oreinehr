@@ -28,8 +28,12 @@ Entre em contato comigo:
 ## 🛠️ Tecnologias que já utilizei
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-808080?style=for-the-badge&logo=ejs&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-0078D4?style=for-the-badge&logo=flet&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4J-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 ---
