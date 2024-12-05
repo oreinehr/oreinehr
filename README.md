@@ -1,4 +1,4 @@
-# 🌟 Seja bem vindo ao meu Github
+# 🌟 Seja Bem Vindo ao Meu Github
 
 Eu sou **Guilherme Reinehr**.
 
